@@ -29,7 +29,7 @@
     },
     {
       "isActive": false,
-      "age": 38,
+      "age": "25",
       "id": 5,
       "firstName": "William",
       "lastName": "Carney",
@@ -636,6 +636,13 @@
       "categoryId": 3,
       "unitInStock": "23",
       "unitPrice": "222"
+    },
+    {
+      "id": 28,
+      "productName": "gfdsgfdg",
+      "categoryId": 3,
+      "unitInStock": "4545",
+      "unitPrice": "4545"
     }
   ],
   "categories": [
